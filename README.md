@@ -27,3 +27,6 @@ create-nuxt-app v2.11.1
 ? Choose development tools jsconfig.json (Recommended for VS Code)
 ⠹
 ```
+
+
+https://www.ohmydeck.com/check-this/5S73aB4iNPPUb9f4TzPxo1#/21
