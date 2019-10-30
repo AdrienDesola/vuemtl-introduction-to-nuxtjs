@@ -3,8 +3,8 @@
     :title="name"
     :img-src="poster"
     img-top
+    img-width="100"
     tag="article"
-    class="mb-2"
   >
     <b-card-text>
       {{ character }}
