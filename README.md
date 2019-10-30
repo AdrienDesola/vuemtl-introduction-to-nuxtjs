@@ -1,22 +1,29 @@
-# vuemtl-introduction-to-nuxtjs
+## prépare-toi au workshop <!-- data-background-color="#2f495e" style="color:#00c58e;" -->
 
-> My finest Nuxt.js project
+- Node^8.x.x npm^5.2.0
 
-## Build Setup
+- créer un compte sur https://www.themoviedb.org
+- récupéré le jeton d'accès a l'api dans les réglages https://www.themoviedb.org/settings/api
 
-``` bash
-# install dependencies
-$ npm run install
+- rtfd https://developers.themoviedb.org/4/list/get-list
 
-# serve with hot reload at localhost:3000
-$ npm run dev
-
-# build for production and launch server
-$ npm run build
-$ npm run start
-
-# generate static project
-$ npm run generate
+- créer le projet avec la commande suivante
 ```
-
-For detailed explanation on how things work, check out [Nuxt.js docs](https://nuxtjs.org).
+$ npx create-nuxt-app <project-name>
+```
+```
+create-nuxt-app v2.11.1
+✨  Generating Nuxt.js project in project-name
+? Project name project-name
+? Project description My unreal Nuxt.js project
+? Author name Adrien Desola
+? Choose the package manager Npm
+? Choose UI framework Bootstrap Vue
+? Choose custom server framework None (Recommended)
+? Choose Nuxt.js modules Axios
+? Choose linting tools ESLint, Prettier
+? Choose test framework None
+? Choose rendering mode Universal (SSR)
+? Choose development tools jsconfig.json (Recommended for VS Code)
+⠹
+```
