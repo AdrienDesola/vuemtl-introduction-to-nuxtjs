@@ -8,6 +8,9 @@
         <b-col cols="12">
           <b-card-body :title="title">
             <b-card-text v-text="description" />
+            <nuxt-link :to="{ name: 'movies-movieId', params: { movieId: id } }">
+              voir la fiche
+            </nuxt-link>
           </b-card-body>
         </b-col>
       </b-row>

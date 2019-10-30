@@ -52,7 +52,7 @@ export default {
   axios: {
     proxy: true
   },
-    /**
+  /**
    * proxy
    */
   proxy: {
